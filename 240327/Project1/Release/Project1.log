@@ -1,0 +1,8 @@
+﻿  practice1.c
+C:\Users\User\Desktop\Project\자료구조\240327\practice1.c(22,12): warning C4013: 'init_stack'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\User\Desktop\Project\자료구조\240327\practice1.c(27,8): warning C4013: 'push'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\User\Desktop\Project\자료구조\240327\practice1.c(30,13): warning C4013: 'pop'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+practice1.obj : error LNK2001: 확인할 수 없는 외부 기호 _init_stack
+practice1.obj : error LNK2001: 확인할 수 없는 외부 기호 _push
+practice1.obj : error LNK2001: 확인할 수 없는 외부 기호 _pop
+C:\Users\User\Desktop\Project\자료구조\240327\Release\Project1.exe : fatal error LNK1120: 3개의 확인할 수 없는 외부 참조입니다.
